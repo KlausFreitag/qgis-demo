@@ -1,0 +1,12 @@
+*.gpkg*
+*.gpkg
+*.xml
+*.prj
+*.tif
+*.tfw
+*.txt
+*.html
+*.cpg
+*.dbf
+*.shp
+*.shx
